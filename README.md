@@ -1,2 +1,2 @@
 # AWS
-In this repo  you  will  found the  Aws notes  
+In this repo  you  will  found the  notes about Aws   
